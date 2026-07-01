@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6q0137/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0137/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 入眾日用
+  identifiers:
+    krp: KR6q0137
+    cbeta: X63n1246
+    cbeta_old_id: X63n1246
+    authorityid: CA0002691
+    json_key: X1246
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1246.xml
+    old_id: X63n1246
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0137_000-X.yaml, hash: 'sha256:bdcf9ad87f7213ad3d2b9e0bb2831bae3ecb659a42e6282ee2a500399a5e1609'}
+  - {seq: 1, filename: KR6q0137_001-X.yaml, hash: 'sha256:d5910f24f54c78ee93a2635542b890e9b6b17d90635c3e04de4ff9be47cf115e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0137_000-X.markers.yaml, hash: 'sha256:eb9a12d60fe100b5ba768ad689c4e9a546c894127ce3ae16ee1baf4ca4ee3c9b'}
+  - {seq: 1, role: markers, filename: assets/KR6q0137_001-X.markers.yaml, hash: 'sha256:dfb2183fbd82271dfe6dcdd2a9026d2ad9ee60ad7b285f25fa2874e4d28188fe'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0137_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3266
+  label: 入眾日用無量壽禪師日用小清規
+  type: juan
+  level: 1
+hash: sha256:640b565bdb515f6a6dbea1803bb553191953195dba91bfa57e920550f2c50cd3

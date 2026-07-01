@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0137/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 入眾日用
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1246.xml
+    old_id: X63n1246
+hash: sha256:bdcf9ad87f7213ad3d2b9e0bb2831bae3ecb659a42e6282ee2a500399a5e1609
