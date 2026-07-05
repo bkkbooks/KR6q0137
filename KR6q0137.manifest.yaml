@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0137_000.yaml, hash: 'sha256:bdcf9ad87f7213ad3d2b9e0bb2831bae3ecb659a42e6282ee2a500399a5e1609'}
-  - {seq: 1, filename: KR6q0137_001.yaml, hash: 'sha256:e07ff290b10005639d3f8ae89a38ca0530ae3f36371130420e3234a57391e94d'}
+  - {seq: 1, filename: KR6q0137_001.yaml, hash: 'sha256:d5910f24f54c78ee93a2635542b890e9b6b17d90635c3e04de4ff9be47cf115e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0137_001.markers.yaml, hash: 'sha256:431582da5311ce158d7bc26196ca80617266055cb01ad15d9b6aa2fde8c50945'}
+  - {seq: 0, role: markers, filename: assets/KR6q0137_000.markers.yaml, hash: 'sha256:ca56aec2ed3758c432dd33128ea41bdac0f8e63c005f129fc0abfc0404101e77'}
+  - {seq: 1, role: markers, filename: assets/KR6q0137_001.markers.yaml, hash: 'sha256:52a9438858cb9a18cb400fe5c70f22d278ac6c15464bac2bd95539942b67330d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 入眾日用無量壽禪師日用小清規
   type: juan
   level: 1
-hash: sha256:e4640f13287cd5466c8d11464bd1ab82a3b5a95433dbd114900f68fce2df2a6c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:efec9d87189a4104b0dbe0c6d082fefbf9b38c2bedb4fa7a20c7c32181d11678
