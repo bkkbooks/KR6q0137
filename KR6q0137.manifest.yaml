@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0137/v1
 canonical_location: https://kanripo.org/bkk/KR6q0137/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 入眾日用
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0137_000.yaml, hash: 'sha256:bdcf9ad87f7213ad3d2b9e0bb2831bae3ecb659a42e6282ee2a500399a5e1609'}
-  - {seq: 1, filename: KR6q0137_001.yaml, hash: 'sha256:d5910f24f54c78ee93a2635542b890e9b6b17d90635c3e04de4ff9be47cf115e'}
+  - {seq: 1, filename: KR6q0137_001.yaml, hash: 'sha256:be87a46363bd60f07e7d6f0a41e32fc17de066b3035f34db406b29a76554fd9a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0137_000.markers.yaml, hash: 'sha256:ca56aec2ed3758c432dd33128ea41bdac0f8e63c005f129fc0abfc0404101e77'}
-  - {seq: 1, role: markers, filename: assets/KR6q0137_001.markers.yaml, hash: 'sha256:52a9438858cb9a18cb400fe5c70f22d278ac6c15464bac2bd95539942b67330d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0137_001.markers.yaml, hash: 'sha256:bb58281cddf1e4c62c40cf99eb6c8c76b6a99481cec23dca19b2bdab0262f2f4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 入眾日用無量壽禪師日用小清規
   type: juan
   level: 1
-hash: sha256:efec9d87189a4104b0dbe0c6d082fefbf9b38c2bedb4fa7a20c7c32181d11678
+hash: sha256:11f6a63075d1bc221fd3a546233b1638691e617994b4358c5b941799f4ce4374
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
